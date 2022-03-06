@@ -1,2 +1,1 @@
-jaldi kar na bharwe
 
