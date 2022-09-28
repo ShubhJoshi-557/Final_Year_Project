@@ -1,3 +1,10 @@
+# Image Manipulation Detector
+
+## Screenshot
+![imd_laptop](https://user-images.githubusercontent.com/62555809/192738053-1045cc9c-ed40-4adf-b105-55bdf129f241.png)
+
+## Test Images
+
 ![](test-images/1.png) <br>
 ![](test-images/2.png) <br>
 <!-- ![](test-images/3.png) <br>  -->
