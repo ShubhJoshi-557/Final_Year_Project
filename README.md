@@ -1,7 +1,8 @@
 # Image Manipulation Detector
 
 ## Screenshot
-![imd_laptop](https://user-images.githubusercontent.com/62555809/192738053-1045cc9c-ed40-4adf-b105-55bdf129f241.png)
+![imd_laptop](https://user-images.githubusercontent.com/62555809/192792309-90b75bba-d337-4c13-9ce6-8b5280b88757.png)
+
 
 ## Test Images
 
